@@ -276,8 +276,9 @@ board.on("ready", function() {
 ### Piezo
 - [Piezo](https://github.com/rwaldron/johnny-five/blob/master/docs/piezo.md)
 
-### IMU
+### IMU/Multi
 - [Imu Mpu6050](https://github.com/rwaldron/johnny-five/blob/master/docs/imu-mpu6050.md)
+- [Multi Mpl115a2](https://github.com/rwaldron/johnny-five/blob/master/docs/multi-mpl115a2.md)
 
 ### Sensors
 - [Accelerometer](https://github.com/rwaldron/johnny-five/blob/master/docs/accelerometer.md)
@@ -286,6 +287,7 @@ board.on("ready", function() {
 - [Accelerometer Mma7361](https://github.com/rwaldron/johnny-five/blob/master/docs/accelerometer-mma7361.md)
 - [Accelerometer Mpu6050](https://github.com/rwaldron/johnny-five/blob/master/docs/accelerometer-mpu6050.md)
 - [Accelerometer Pan Tilt](https://github.com/rwaldron/johnny-five/blob/master/docs/accelerometer-pan-tilt.md)
+- [Barometer Mpl115a2](https://github.com/rwaldron/johnny-five/blob/master/docs/barometer-mpl115a2.md)
 - [Gyro](https://github.com/rwaldron/johnny-five/blob/master/docs/gyro.md)
 - [Gyro Mpu6050](https://github.com/rwaldron/johnny-five/blob/master/docs/gyro-mpu6050.md)
 - [Photoresistor](https://github.com/rwaldron/johnny-five/blob/master/docs/photoresistor.md)
@@ -303,6 +305,7 @@ board.on("ready", function() {
 - [Temperature Lm35](https://github.com/rwaldron/johnny-five/blob/master/docs/temperature-lm35.md)
 - [Temperature Ds18b20](https://github.com/rwaldron/johnny-five/blob/master/docs/temperature-ds18b20.md)
 - [Temperature Mpu6050](https://github.com/rwaldron/johnny-five/blob/master/docs/temperature-mpu6050.md)
+- [Temperature Mpl115a2](https://github.com/rwaldron/johnny-five/blob/master/docs/temperature-mpl115a2.md)
 
 ### Plugin Template
 - [Plugin](https://github.com/rwaldron/johnny-five/blob/master/docs/plugin.md)
